@@ -1,6 +1,6 @@
 # Visible Light Communication bidirectional LED to LED communication system and power generator for VLC-ID access system
 
-**Project ID:** VLC-LED-2025  
+**Manuscript ID: IEEE LATAM Submission ID: 9746
 **Authors:** Roger Alexander Martinez, Francisco Eugenio Lopez, Andrés Isaza  
 **Affiliation:** Institución Universitaria ITM  
 
@@ -22,8 +22,6 @@ as both transmitters and receivers. The system transmits data using On-Off Keyin
     - `Texto_fijo_vlc.ino`    
   - **matlab_code/** – MATLAB scripts  
     - `signal_processing.m`  
-  - **python_code/** – Python GUI and control scripts  
-    - `control_interface.py`  
 - **databases/** – Experimental data  
   - `experiment_data.csv`  
 - **figures/** – Images, graphs, LED setup photos  
