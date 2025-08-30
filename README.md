@@ -1,6 +1,6 @@
 # Visible Light Communication bidirectional LED to LED communication system and power generator for VLC-ID access system
 
-**Manuscript ID: IEEE LATAM Submission ID: 9746**
+**Manuscript ID:** IEEE LATAM Submission ID: 9746
 **Authors:** Roger Alexander Martinez, Francisco Eugenio Lopez, Andrés Isaza  
 **Affiliation:** Institución Universitaria ITM  
 
