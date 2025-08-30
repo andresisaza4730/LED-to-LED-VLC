@@ -16,9 +16,10 @@ as both transmitters and receivers. The system transmits data using On-Off Keyin
 - **LICENSE** – License of the project  
 - **scripts/** – All code for the project  
   - **arduino_code/** – Arduino sketches (.ino)  
-    - `LED_comm.ino`  
-    - `LED_transmitter.ino`  
-    - `LED_receiver.ino`  
+    - `Esclavo_VLC_ID_V2.ino`  
+    - `Maestro_VLC_ID_V2.ino`  
+    - `Texto_entre_ambos.ino`
+    - `Texto_fijo_vlc.ino`    
   - **matlab_code/** – MATLAB scripts  
     - `signal_processing.m`  
   - **python_code/** – Python GUI and control scripts  
