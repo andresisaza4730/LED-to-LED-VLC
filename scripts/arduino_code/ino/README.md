@@ -4,15 +4,15 @@ This folder contains the Arduino sketches used in the bidirectional LED-to-LED V
 
 ## Files
 
-- **Slave.ino**  
+- **Esclavo_VLC_ID_V2.ino**  
   Program for the user VLC card (slave). Sends identification data via LED.
 
-- **Master.ino**  
+- **Maestro_VLC_ID_V2.ino**  
   Program for the master device. Receives data from VLC cards and validates access.
 
-- **Text_Communication.ino**  
+- **Texto_entre_ambos.ino**  
   Program for testing text communication using the keyboard.
 
-- **Fixed_Text.ino**  
+- **Texto_fijo.ino**  
   Program for transmitting a predefined fixed text message.
 
