@@ -15,7 +15,7 @@ This section presents the experimental results of simultaneous energy harvesting
 - *At ~20 mm:* The red LED starts acting as a receiver, but data decoding is still not accurate.  
 - *Conclusion:* While the red channel can receive data, improvements are required for reliable decoding at larger distances.  
 
-![BER Performance](Figures/results/Ber_red.png)
+![BER_Red](Figures/results/Ber_red.png)
 
 ---
 
@@ -31,7 +31,7 @@ This section presents the experimental results of simultaneous energy harvesting
 - *> 20 mm:* Communication deteriorates, requiring system design adjustments.  
 
 
-![BER Performance](Figures/results/Ber_green.png)
+![BER_Green](Figures/results/Ber_green.png)
 
 
 ---
@@ -46,5 +46,5 @@ This section presents the experimental results of simultaneous energy harvesting
 - *Up to 20 mm:* BER = 0%, ensuring accurate transmission and detection at short distances.  
 - *> 20 mm:* Communication performance decreases, suggesting the need for system optimization.  
 
-![BER Performance](Figures/results/Ber_blue.png)
+![BER_Blue](Figures/results/Ber_blue.png)
 
