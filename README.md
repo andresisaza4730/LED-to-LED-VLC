@@ -21,7 +21,8 @@ as both transmitters and receivers. The system transmits data using On-Off Keyin
     - `Texto_entre_ambos.ino`
     - `Texto_fijo_vlc.ino`    
   - **matlab_code/** – MATLAB scripts  
-    - `signal_processing.m`  
+    - `createfigure.m`
+    - `resultados.m` 
 - **databases/** – Experimental data  
   - `experiment_data.csv`  
 - **figures/** – Images, graphs, LED setup photos  
