@@ -23,12 +23,12 @@ as both transmitters and receivers. The system transmits data using On-Off Keyin
   - **matlab_code/** – MATLAB scripts  
     - `createfigure.m`
     - `resultados.m` 
-- **databases/** – Experimental data  
-  - `experiment_data.csv`  
+- **data/** –   
+  - `harvesting_and_BER_measurement_blue_RX_TX.csv`  
 - **Figures/** – results 
   - `Ber_blue.png`
   - `Ber_green.png`
   - `Ber_red.png`      
    
-- **docs/** – Publications, papers, documentation  
+- **docs/** – paper 
   - `article.pdf`
