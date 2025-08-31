@@ -25,9 +25,10 @@ as both transmitters and receivers. The system transmits data using On-Off Keyin
     - `resultados.m` 
 - **databases/** – Experimental data  
   - `experiment_data.csv`  
-- **figures/** – Images, graphs, LED setup photos  
-  - `graph_experiment1.png`  
-  - `graph_experiment2.png`  
-  - `LED_setup.jpg`  
+- **Figures/** – results 
+  - `Ber_blue.png`
+  - `Ber_green.png`
+  - `Ber_red.png`      
+   
 - **docs/** – Publications, papers, documentation  
   - `article.pdf`
